@@ -5,9 +5,9 @@ image augmentation for ML
 ## Augmentation to be implemented: 
 
 # Pixel Level: 
-  Gaussian Blur 
-  Gaussian Noise 
-  Color Jittering 
+Gaussian Blur 
+Gaussian Noise 
+Color Jittering 
 
 # Geometric: 
  Horizontal Flip 
