@@ -12,4 +12,4 @@ image augmentation for ML
 ## Geometric: 
 ### Horizontal Flip 
 ### Random Crop (Maintain aspect ratio while cropping) 
-### Rotation (-15 to 15) -- let’s not rotate much 
+
